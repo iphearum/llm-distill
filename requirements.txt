@@ -1,0 +1,9 @@
+transformers>=4.53,<5
+accelerate>=1.4
+datasets>=3.0
+huggingface_hub>=0.30
+regex>=2024.11
+khmer-segmenter==0.1.0
+safetensors>=0.5
+tqdm>=4.66
+# Install unsloth separately for hardware-matched torch/CUDA wheels.
